@@ -2,3 +2,10 @@ qa:
   scrapers:
     amazon_scrap:
       - listings
+  individual_validations:
+    url:
+      required: true
+      type: Url
+    title:
+      required: true
+      type: String
