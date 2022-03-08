@@ -1,0 +1,4 @@
+qa:
+  scrapers:
+    amazon_scrap:
+      - listings
